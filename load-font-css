@@ -1,0 +1,27 @@
+    
+/* prompt-regular - thai_latin */
+@font-face {
+    font-family: 'Prompt';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: url('assets/fonts/prompt-v4-thai_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Prompt'), local('Prompt-Regular'),
+        url('assets/fonts/prompt-v4-thai_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('assets/fonts/prompt-v4-thai_latin-regular.woff') format('woff'), /* Modern Browsers */
+        url('assets/fonts/prompt-v4-thai_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('assets/fonts/prompt-v4-thai_latin-regular.svg#Prompt') format('svg'); /* Legacy iOS */
+}
+/* prompt-500 - thai_latin */
+@font-face {
+    font-family: 'Prompt';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    src: url('assets/fonts/prompt-v4-thai_latin-500.eot'); /* IE9 Compat Modes */
+    src: local('Prompt Medium'), local('Prompt-Medium'),
+        url('assets/fonts/prompt-v4-thai_latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+        url('assets/fonts/prompt-v4-thai_latin-500.woff') format('woff'), /* Modern Browsers */
+        url('assets/fonts/prompt-v4-thai_latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('assets/fonts/prompt-v4-thai_latin-500.svg#Prompt') format('svg'); /* Legacy iOS */
+}
